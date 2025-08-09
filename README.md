@@ -3,5 +3,5 @@ this is the demo for git and git hub.
 
 # Teacher
 shradha khapra
-# student
+# Student 
 Rithik sai
